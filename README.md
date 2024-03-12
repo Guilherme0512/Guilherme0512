@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Html,CSS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@_guilherme0512 
-- 😄 Pronouns: ...He/He's
+- 😄 Pronouns: ...He
 - ⚡ Fun fact: ...
 
 <!---
